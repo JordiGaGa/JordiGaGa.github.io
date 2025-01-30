@@ -1,6 +1,6 @@
 ---
 title: "Jordi Garcia-Garces"
-image: "Jordi.jpg"
+image: "Jordi.jpeg"
 links:
   - label: GitHub
     url: "https://github.com/JordiGaGa"
