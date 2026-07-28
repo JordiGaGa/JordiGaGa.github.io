@@ -1,20 +1,30 @@
 ---
-title: "Jordi Garcia-Garces"
+title: "Jordi García Garcés"
 image: "Jordi.jpeg"
 links:
-  - label: GitHub
+  - label: GitHub 1
     url: "https://github.com/JordiGaGa"
-  - label: Email
+  -label: GitHub 2
+    url: "https://github.com/Jordi05J"
+  - label: Email 1
     url: "jordigg@lcg.unam.mx"
+  - label: Email 2
+    url: "jordi.gaga05@gmail.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Jordi Garcia Garces is a student from "Universidad Nacional Autonoma de Mexico".
-He studies genomic sciences in Cuernavaca, Morelos, Mexico. 
+Jordi Garcia Garces is a student from the undergraduate program in Genomic Sciences of the "Universidad Nacional Autonoma de Mexico" (UNAM).
+
 
 ## Education
 
-**Centro de Ciencias Genomicas** | UNAM
+**Center of Genomic Sciences** | UNAM
+
+## Participation in labs
+
+**Institute of Biotechnology (IBt). Islets their Development and Diabetes lab** | UNAM
+
+**Center of Research about Aging (CIE) . Epiaging lab** | CINVESTAV
